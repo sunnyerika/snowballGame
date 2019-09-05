@@ -37,6 +37,13 @@ $RECYCLE.BIN/
 # Thumbnails
 ._*
 
+#---------------------------------------#
+# IDEs & Editors Ignores                #
+#---------------------------------------#
+
 # JetBrains IDEs
 /.idea
+# Sublime Text
+/*.sublime*
+.sublime-gulp.cache
 
